@@ -1,4 +1,4 @@
-# I am temporarily suspending the maintenance of this repository for 1-2 years. Feel free to make forks and provide PRs with changes to include in this fork in the future.
+#### I am temporarily suspending the maintenance of this repository for 1 year. Feel free to make forks and provide PRs with changes to include in this fork in the future.
 
 # <img src="https://github.com/Lumaeris/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
