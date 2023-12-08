@@ -310,6 +310,7 @@ _Items marked with ![Open-Source Software][OSS Icon] are open-source software. I
 - [AddToSendTo](https://pyscripts.aashutosh.dev/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][OSS Icon]](https://github.com/aashutoshrathi/Python-Scripts-and-Games/tree/master/AddToSendTo)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][Freeware Icon]
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
+- [Browser Tamer](https://github.com/aloneguid/bt) - Extremely fast and lightweight browser redirection utility.
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording. [![Open-Source Software][OSS Icon]](https://github.com/Code52/carnac) ![Freeware][Freeware Icon]
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
