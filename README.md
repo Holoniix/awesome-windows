@@ -371,7 +371,6 @@
 
 ### Windows 10, 11 Setup
 
-- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - A most powerful PowerShell module for Windows 10 & Windows 11 fine-tuning and tweaking.
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 
@@ -394,6 +393,8 @@
 - [KeeWeb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass, built on modern web technologies. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 - [Malwarebytes](https://www.malwarebytes.org/) - Protects against dangerous threats that antivirus can't find.
 - [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool.
+- [SophiApp](https://github.com/Sophia-Community/SophiApp) - The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11. The next chapter of the [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) project.
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - A most powerful PowerShell module for Windows 10 & Windows 11 fine-tuning and tweaking.
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses.
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more. ![Freeware][Freeware Icon]
 - [Tor Browser](https://www.torproject.org/) - Defend yourself against tracking and surveillance. [![Open-Source Software][OSS Icon]](https://github.com/torproject) ![Freeware][Freeware Icon]
@@ -408,13 +409,13 @@
 
 ## Discussion Forums
 
-#### Windows
+### Windows
 
 - [Windows Support Communities](http://answers.microsoft.com/en-us/windows)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/windows)
 - [Super User](http://superuser.com/questions/tagged/windows*)
 
-#### Reddit
+### Reddit
 
 - [/r/windows](https://www.reddit.com/r/windows/)
 - [/r/windows10](https://www.reddit.com/r/Windows10/)
