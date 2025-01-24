@@ -423,7 +423,7 @@
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+Contributions are most welcome, please adhere to the [Contribution Guidelines](.github/CONTRIBUTING.md) and our [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 **[⬆ back to top](#readme)**
 
