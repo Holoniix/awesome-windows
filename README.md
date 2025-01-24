@@ -1,10 +1,8 @@
-#### I am temporarily suspending the maintenance of this repository for 1 year. Feel free to make forks and provide PRs with changes to include in this fork in the future.
-
-# <img src="https://github.com/Lumaeris/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# <img src="https://github.com/Lumaeris/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome applications, software, tools and shiny things for Windows. :tada:
 
-This list was created on [Jul 26, 2021](https://github.com/Lumaeris/awesome-windows/commit/6430946c400e31c034a7620578143165c6e1cb92) and based on the wonderful work of https://github.com/Awesome-Windows/Awesome. However, the original list had obsolete links and items were mostly not in alphabetical order, so I made a fork to fix this and add new products faster.
+This list was created on Jul 26, 2021 and based on the wonderful work of https://github.com/Awesome-Windows/Awesome. However, the original list had obsolete links and items were mostly not in alphabetical order, so I made a fork to fix this and add new products faster.
 
 If you notice obsolete or dead links, please be kind enough to report them by [creating an issue](https://github.com/Lumaeris/awesome-windows/issues/new) or by [making a pull request](https://github.com/Lumaeris/awesome-windows/edit/main/README.md). Thanks!
 
@@ -42,7 +40,6 @@ _Items marked with ![Open-Source Software][OSS Icon] are open-source software. I
   - [Windows](#windows)
   - [Reddit](#reddit)
 - [Contribute](#contribute)
-- [License](#license)
 
 ## Applications
 
@@ -438,11 +435,15 @@ Contributions are most welcome, please adhere to the [Contribution Guidelines](.
 
 **[⬆ back to top](#readme)**
 
-## License
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumaeris/Lumaeris/refs/heads/main/assets/footer-white.png">
+        <img alt="Lumaeris" width="600px" src="https://raw.githubusercontent.com/Lumaeris/Lumaeris/refs/heads/main/assets/footer-dark.png">
+    </picture>
+</p>
+<p align="center">
+    <a href="https://github.com/Lumaeris/awesome-windows/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--4.0-ED592F?style=for-the-badge&logo=creativecommons"/></a>
+</p>
 
 [OSS Icon]: https://github.com/Lumaeris/awesome-windows/raw/main/media/OSS.svg
 [Freeware Icon]: https://github.com/Lumaeris/awesome-windows/raw/main/media/free.svg
