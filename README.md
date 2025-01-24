@@ -90,6 +90,7 @@
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
+- [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source application for setting GIFs, Videos and WebPages as your desktop wallpaper. [![Open-Source Software][oss icon]](https://github.com/rocksdanister/lively/) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon] <!-- should be removed very soon - dsrev -->
@@ -264,9 +265,9 @@
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon]
-- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. [![Open-Source Software][oss icon]](https://github.com/microsoft/PowerToys) ![Freeware][freeware icon]
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
@@ -275,7 +276,6 @@
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
-- [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
 
 ### Terminal
 
@@ -371,7 +371,7 @@
 
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
+- [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks.
 
 ### Windows 8.1 Setup
 
@@ -380,6 +380,7 @@
 ## Security
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][freeware icon]
+- [Ameliorated](https://ameliorated.info/) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. [![Open-Source Software][oss icon]](https://git.ameliorated.info/lucid/scripts) ![Freeware][freeware icon]
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][freeware icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ![Freeware][freeware icon]
@@ -396,7 +397,6 @@
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux. [![Open-Source Software][oss icon]](https://www.veracrypt.fr/code/VeraCrypt/)
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][freeware icon]
-- [Windows 10 AME](https://ameliorated.info/) (or just Ameliorated) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. Available as a ready-made .ISO image and as documentation for creating a system for yourself.
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 
 ## Miscellaneous
