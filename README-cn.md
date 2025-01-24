@@ -1,3 +1,5 @@
+# For a moment, go to https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md instead, please.
+
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
