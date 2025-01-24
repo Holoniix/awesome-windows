@@ -1,10 +1,12 @@
-# <img src="https://github.com/dsrev/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows">
+# <img src="https://github.com/dsrev/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome applications, software, tools and shiny things for Windows. :tada:
 
-> A curated list of awesome applications, software, tools and shiny things for Windows.
+This list was created on [Jul 26, 2021](https://github.com/dsrev/awesome-windows/commit/6430946c400e31c034a7620578143165c6e1cb92) and based on the wonderful work of https://github.com/Awesome-Windows/Awesome. However, the original list had obsolete links and items were mostly not in alphabetical order, so I made a fork to fix this and add new products faster.
 
-> _Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free (as in free beer)._
+If you notice obsolete or dead links, please be kind enough to report them by [creating an issue](https://github.com/dsrev/awesome-windows/issues/new) or by [making a pull request](https://github.com/dsrev/awesome-windows/edit/main/README.md). Thanks!
+
+_Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free (as in free beer)._
 
 ## Contents
 
@@ -47,7 +49,7 @@
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more. ![Freeware][Freeware Icon]
-- [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. [![Open-Source Software][OSS Icon]](https://github.com/digimezzo/Dopamine) ![Freeware][Freeware Icon]
+- [Dopamine](https://digimezzo.github.io/site/software) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. [![Open-Source Software][OSS Icon]](https://github.com/digimezzo/Dopamine) ![Freeware][Freeware Icon]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too. ![Freeware][Freeware Icon]
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features. ![Freeware][Freeware Icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
@@ -90,11 +92,11 @@
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. [![Open-Source Software][OSS Icon]](https://github.com/m417z/7-Taskbar-Tweaker) ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
 - [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source application for setting GIFs, Videos and WebPages as your desktop wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/rocksdanister/lively/) ![Freeware][Freeware Icon]
-- [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![Open-Source Software][OSS Icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts) ![Freeware][Freeware Icon]
+- [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows 10 and older builds of Windows 11. [![Open-Source Software][OSS Icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts) ![Freeware][Freeware Icon]
+- [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A tool that redirects News, Searches, Widgets, Weather, and more to your preferred browser. [![Open-Source Software][OSS Icon]](https://github.com/rcmaehl/MSEdgeRedirect) ![Freeware][Freeware Icon]
 - [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) (originally [Classic Shell](https://coddec.github.io/Classic-Shell/www.classicshell.net/)) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/Open-Shell/Open-Shell-Menu) ![Freeware][Freeware Icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
-- [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][OSS Icon]](https://github.com/spikespaz/search-deflector) ![Freeware][Freeware Icon]
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center Windows taskbar icons with a variety of animations and options. [![Open-Source Software][OSS Icon]](https://github.com/ChrisAnd1998/TaskbarX) ![Freeware][Freeware Icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
 
