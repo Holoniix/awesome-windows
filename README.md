@@ -1,18 +1,12 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="Awesome Windows">
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An awesome & curated list of best applications and tools for Windows.
 
-> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
-
-<!-- vim-markdown-toc GFM -->
+## Contents
 
 - [Applications](#applications)
   - [Audio](#audio)
@@ -45,10 +39,7 @@
     - [IRC channels](#irc-channels)
     - [Reddit](#reddit)
 - [Contribute](#contribute)
-- [Backers](#backers)
 - [License](#license)
-
-<!-- vim-markdown-toc -->
 
 ## Applications
 
@@ -392,7 +383,7 @@
 
 ### Windows 8.1 Setup
 
-- http://windows.microsoft.com/en-IN/windows-8/clean-install
+- http://windows.microsoft.com/en-US/windows-8/clean-install
 
 ## Security
 
@@ -417,8 +408,8 @@
 
 ## Miscellaneous
 
-- [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
-- [list of Shortcut keys](http://imgur.com/a/TIXvm)
+- [Show hidden files](https://support.microsoft.com/en-us/windows/show-hidden-files-0320fe58-0117-fd59-6851-9b7f9840fdb2)
+- [List of Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
 
 ## Discussion Forums
 
@@ -428,38 +419,28 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/windows)
 - [Super User](http://superuser.com/questions/tagged/windows*)
 
-#### IRC channels
-
-- [#Windows](https://webchat.freenode.net/?channels=windows)
-- [#microsoft](https://webchat.freenode.net/?channels=microsoft)
-
 #### Reddit
 
 - [/r/windows](https://www.reddit.com/r/windows/)
-- [/r/windowsapps](https://www.reddit.com/r/windowsapps)
-- [/r/microsoft](https://www.reddit.com/r/Microsoft)
-- [/r/sysadmin](https://www.reddit.com/r/sysadmin)
-- [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
+- [/r/windows10](https://www.reddit.com/r/Windows10/)
+- [/r/windows11](https://www.reddit.com/r/Windows11/)
+- [/r/windowsapps](https://www.reddit.com/r/windowsapps/)
+- [/r/microsoft](https://www.reddit.com/r/microsoft/)
+- [/r/sysadmin](https://www.reddit.com/r/sysadmin/)
+- [/r/techsupport](https://www.reddit.com/r/techsupport/)
+- [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap/)
 
 ## Contribute
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#applications)**
-
-[oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
-## Backers
-
-Thank you to all our supporters! 🙏
-
-> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+**[⬆ back to top](#readme)**
 
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
