@@ -70,7 +70,7 @@
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][freeware icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
-- [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
+- [Element](https://element.io/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/element-web) ![Freeware][Freeware Icon]
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
@@ -86,14 +86,13 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
-- [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
+- [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) (formerly known as [Classic Shell](https://coddec.github.io/Classic-Shell/www.classicshell.net/)) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/Open-Shell/Open-Shell-Menu) ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
+- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon] <!-- should be removed very soon - dsrev -->
 - [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ### Data Recovery
@@ -333,20 +332,14 @@
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
-- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
-- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][oss icon]](https://github.com/ShareX/ShareX) ![Freeware][freeware icon]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
-- [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
+- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
-- [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli) ![Freeware][freeware icon]
 - [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][freeware icon]
 - [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
@@ -364,12 +357,12 @@
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon]
-- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
+- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/obsproject/obs-studio)
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
 - [Shotcut](https://www.shotcut.org/download/) - Open source cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://code.videolan.org/videolan/vlc) ![Freeware][freeware icon]
 - [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
 ## Setup
@@ -394,15 +387,16 @@
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][freeware icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
-- [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
+- [KeePass Password Safe](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
+- [KeePassXC](https://keepassxc.org/) - Free, open-source, cross-platform community-driven port of the Windows application “Keepass Password Safe”. [![Open-Source Software][oss icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][freeware icon]
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][freeware icon]
 - [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool. ![Freeware][freeware icon]
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][freeware icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
-- [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux. [![Open-Source Software][oss icon]](https://www.veracrypt.fr/code/VeraCrypt/)
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][freeware icon]
+- [Windows 10 AME](https://ameliorated.info/) (or just Ameliorated) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. Available as a ready-made .ISO image and as documentation for creating a system for yourself.
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 
 ## Miscellaneous
