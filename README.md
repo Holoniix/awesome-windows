@@ -88,9 +88,9 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. [![Open-Source Software][OSS Icon]](https://github.com/m417z/7-Taskbar-Tweaker) ![Freeware][Freeware Icon]
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the Alt key. Maintained continuation of Stefan Sundin's [AltDrag](https://stefansundin.github.io/altdrag/). [![Open-Source Software][OSS Icon]](https://github.com/RamonUnch/AltSnap) ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
 - [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source application for setting GIFs, Videos and WebPages as your desktop wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/rocksdanister/lively/) ![Freeware][Freeware Icon]
+- [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![Open-Source Software][OSS Icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts) ![Freeware][Freeware Icon]
 - [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) (originally [Classic Shell](https://coddec.github.io/Classic-Shell/www.classicshell.net/)) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/Open-Shell/Open-Shell-Menu) ![Freeware][Freeware Icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
@@ -253,6 +253,7 @@
 
 ### Productivity
 
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the Alt key. Maintained continuation of Stefan Sundin's [AltDrag](https://stefansundin.github.io/altdrag/). [![Open-Source Software][OSS Icon]](https://github.com/RamonUnch/AltSnap) ![Freeware][Freeware Icon]
 - [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][OSS Icon]](https://github.com/Lieturd/aperture-control) ![Freeware][Freeware Icon]
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][OSS Icon]](https://github.com/Lexikos/AutoHotkey_L) ![Freeware][Freeware Icon]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows. [![Open-Source Software][OSS Icon]](https://github.com/chocolatey/choco)
@@ -276,6 +277,7 @@
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views.
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
+- [SuperF4](https://stefansundin.github.io/superf4/) - Kill programs instantly with Ctrl+Alt+F4. [![Open-Source Software][OSS Icon]](https://github.com/stefansundin/superf4) ![Freeware][Freeware Icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows.
