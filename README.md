@@ -386,8 +386,7 @@ _Items marked with ![Open-Source Software][OSS Icon] are open-source software. I
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/support/acrylic/Home.htm) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. [![Open-Source Software][OSS Icon]](http://mayakron.altervista.org/support/acrylic/Home.htm) ![Freeware][Freeware Icon]
 - [AdwCleaner](https://www.malwarebytes.com/adwcleaner_welcome) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
-- [AME Wizard Beta](https://ameliorated.io/) - The Ultimate tool for modifying Windows 10 and 11. *Only the source code of the CLI version is open.* [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) ![Freeware][Freeware Icon]
-- [Ameliorated](https://ameliorated.info/) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. It was replaced by [AME Wizard](https://ameliorated.io/) with the official Playbooks. [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/lucid/scripts) ![Freeware][Freeware Icon]
+- [AME Wizard](https://ameliorated.io/) - The Ultimate tool for modifying Windows 10 and 11. *Only the source code of the CLI version is open. Currently in open beta test.* [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
