@@ -1,10 +1,10 @@
-# <img src="https://github.com/dsrev/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# <img src="https://github.com/Lumaeris/awesome-windows/raw/main/media/awesome-windows.png" width="424" alt="Awesome Windows"> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome applications, software, tools and shiny things for Windows. :tada:
 
-This list was created on [Jul 26, 2021](https://github.com/dsrev/awesome-windows/commit/6430946c400e31c034a7620578143165c6e1cb92) and based on the wonderful work of https://github.com/Awesome-Windows/Awesome. However, the original list had obsolete links and items were mostly not in alphabetical order, so I made a fork to fix this and add new products faster.
+This list was created on [Jul 26, 2021](https://github.com/Lumaeris/awesome-windows/commit/6430946c400e31c034a7620578143165c6e1cb92) and based on the wonderful work of https://github.com/Awesome-Windows/Awesome. However, the original list had obsolete links and items were mostly not in alphabetical order, so I made a fork to fix this and add new products faster.
 
-If you notice obsolete or dead links, please be kind enough to report them by [creating an issue](https://github.com/dsrev/awesome-windows/issues/new) or by [making a pull request](https://github.com/dsrev/awesome-windows/edit/main/README.md). Thanks!
+If you notice obsolete or dead links, please be kind enough to report them by [creating an issue](https://github.com/Lumaeris/awesome-windows/issues/new) or by [making a pull request](https://github.com/Lumaeris/awesome-windows/edit/main/README.md). Thanks!
 
 _Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free (as in free beer)._
 
@@ -386,7 +386,8 @@ _Items marked with ![Open-Source Software][OSS Icon] are open-source software. I
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/support/acrylic/Home.htm) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. [![Open-Source Software][OSS Icon]](http://mayakron.altervista.org/support/acrylic/Home.htm) ![Freeware][Freeware Icon]
 - [AdwCleaner](https://www.malwarebytes.com/adwcleaner_welcome) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
-- [Ameliorated](https://ameliorated.info/) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/lucid/scripts) ![Freeware][Freeware Icon]
+- [AME Wizard Beta](https://ameliorated.io/) - The Ultimate tool for modifying Windows 10 and 11. *Only the source code of the CLI version is open.* [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/Styris/trusted-uninstaller-cli) ![Freeware][Freeware Icon]
+- [Ameliorated](https://ameliorated.info/) - Windows 10 minus the spyware plus added stability and security. A pragmatic set of modifications to Windows. It was replaced by [AME Wizard](https://ameliorated.io/) with the official Playbooks. [![Open-Source Software][OSS Icon]](https://git.ameliorated.info/lucid/scripts) ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
@@ -442,5 +443,5 @@ Contributions are most welcome, please adhere to the [Contribution Guidelines](.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: https://github.com/dsrev/awesome-windows/raw/main/media/OSS.svg
-[Freeware Icon]: https://github.com/dsrev/awesome-windows/raw/main/media/free.svg
+[OSS Icon]: https://github.com/Lumaeris/awesome-windows/raw/main/media/OSS.svg
+[Freeware Icon]: https://github.com/Lumaeris/awesome-windows/raw/main/media/free.svg

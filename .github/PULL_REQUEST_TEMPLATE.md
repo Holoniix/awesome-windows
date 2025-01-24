@@ -2,7 +2,7 @@
 
 <!-- Please fill out the following: -->
 
-0. [ ] I have read the [Contribution Guidelines](https://github.com/dsrev/awesome-windows/blob/main/.github/Contributing.md)
+0. [ ] I have read the [Contribution Guidelines](https://github.com/Lumaeris/awesome-windows/blob/main/.github/Contributing.md)
 1. [ ] Project URL:
 2. [ ] Why should this project be added:
 3. [ ] End all descriptions with a full stop/period
@@ -11,6 +11,6 @@
 
 <!--
 
-Again, please read https://github.com/dsrev/awesome-windows/blob/main/.github/Contributing.md if you didn't yet.
+Again, please read https://github.com/Lumaeris/awesome-windows/blob/main/.github/Contributing.md if you didn't yet.
 
 -->
